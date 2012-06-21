@@ -1,0 +1,3 @@
+This is a Test of the Jabber-Net libraries on http://code.google.com/p/jabber-net/ that I try to use with the OpenFire server at http://www.igniterealtime.org/projects/openfire/
+
+If you want to try this yourself, make sure you change the server name and NetworkHost to your OpenFire instance.
