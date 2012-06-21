@@ -12,8 +12,6 @@ using jabber.connection;
 using jabber.protocol.client;
 using jabber.protocol.iq;
 using jabber;
-using Google.GData.Contacts;
-using Google.GData.Extensions;
 using jabber.protocol;
 
 
