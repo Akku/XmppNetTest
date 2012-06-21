@@ -1,3 +1,7 @@
 This is a Test of the Jabber-Net libraries on http://code.google.com/p/jabber-net/ that I try to use with the OpenFire server at http://www.igniterealtime.org/projects/openfire/
 
 If you want to try this yourself, make sure you change the server name and NetworkHost to your OpenFire instance.
+
+When logging in to one of the accounts that have been created on the OpenFire server, you can add one of the other accounts when you're logged in by entering their name, the nickname you want to use for the other account and a group that you want to add it to, and then pressing the Add-Button.
+
+
