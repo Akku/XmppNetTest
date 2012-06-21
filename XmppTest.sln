@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmppTest", XmppTest\XmppTest.csproj", "{CD74B9DD-0293-457F-8E2B-3E03B6F2F551}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmppTest", "XmppTest\XmppTest.csproj", "{CD74B9DD-0293-457F-8E2B-3E03B6F2F551}"
 EndProject
 Global
 	GlobalSection(SubversionScc) = preSolution
